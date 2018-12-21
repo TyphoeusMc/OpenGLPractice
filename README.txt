@@ -1,1 +1,2 @@
-OpenGLÁ·Ï°
+ï»¿OpenGL Practice
+C++ VS program
